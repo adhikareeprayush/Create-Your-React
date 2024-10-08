@@ -25,10 +25,10 @@ function customRender(reactElement, container) {
 const reactElement = {
     type: 'a',
     props: {
-        href: 'https://github.com/adhikareeprayush',
+        href: 'https://azure.microsoft.com/en-us/?WT.mc_id=academic%2Cstudentamb_293386',
         target: '_blank'
     },
-    children: 'My Github'
+    children: 'Support Me'
 }
 
 // Find the root. Not the mathematical kind, the DOM kind.
